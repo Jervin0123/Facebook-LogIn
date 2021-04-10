@@ -1,0 +1,59 @@
+BODY{
+	background-color: #BE7C4D;
+	height: 100vh;
+	background-size: cover;
+background-position: center;
+overflow: hidden;
+}
+table.loginAcc{
+		margin: 0px 50px 0px 0px;
+}
+table.title{
+	margin: 0px 00px 0px 50px;
+}
+TR.first{
+font-family: 'Sarabun';
+font-size: 40 px;
+color:#FFFFFF;
+}
+button.login{
+font-family: 'Sarabun';
+font-size: 30 px;
+background-color:#92140C;
+
+text-align: center;
+color: #FFFFFF;
+}
+TD.remember{
+font-family: 'Source-Sans-Pro';
+font-size: 40 px;
+font-weight: bold;
+color:#FFFFFF
+}
+TD.forgotPW{
+font-family: 'Source-Sans-Pro';
+font-size: 40 px;
+font-style: italic;
+color:#FFFFFF
+}
+TD.title{
+font-family: 'Sarabun';
+font-size: 200%;
+font-weight: bold;
+color: #ffffff;
+}
+input.email{
+background: #FFFFFF;
+border-style: solid;
+border-width: 1px;
+border-color: #353238;
+}
+input.pw{
+background: #FFFFFF;
+border-style: solid;
+border-width: 1px;
+border-color: #353238;
+}
+
+
+

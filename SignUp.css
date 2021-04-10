@@ -1,0 +1,110 @@
+body{
+	background-image: linear-gradient(#ffffff, #BE7C4D );
+}
+table.createACC{
+	margin: 0px 50px 0px 0px;
+	
+}
+td.create{
+font-family: 'Sarabun';
+font-size: 200%;
+font-weight: bold;
+}
+td.sub{
+font-family: 'Source-Sans-Pro';
+font-size: 100%;
+}
+input.Fname{
+background: #FFFFFF;
+ border-radius: 5px;
+border-style: solid;
+border-width: 1px;
+border-color: #353238;
+height: 30px;
+}
+input.Lname{
+background: #FFFFFF;
+ border-radius: 5px;
+border-style: solid;
+border-width: 1px;
+border-color: #353238;
+height: 30px;
+}
+input.email{
+background: #FFFFFF;
+ border-radius: 5px;
+border-style: solid;
+border-width: 1px;
+border-color: #353238;
+height: 30px;
+}
+input.password{
+background: #FFFFFF;
+border-style: solid;
+ border-radius: 5px;
+border-width: 1px;
+border-color: #353238;
+height: 30px;
+}
+td.birthday{
+font-family: 'Sarabun';
+font-size: 100%;
+font-weight: bold;
+color: #353238;
+
+}
+td.gender{
+font-family: 'Sarabun';
+font-size: 100%;
+font-weight: bold;
+color: #353238;
+
+}
+td.gender1{
+font-family: 'Sarabun';
+font-size: 100%;
+font-weight: bold;
+}
+select.month{
+font-family: 'Sarabun';
+font-size: 100%;
+background: #FFFFFF;
+}
+select.day{
+font-family: 'Sarabun';
+font-size: 100%;
+background: #FFFFFF;
+}
+select.year{
+font-family: 'Sarabun';
+font-size: 100%;
+background: #FFFFFF;
+}
+td.agree{
+font-family: 'Sarabun';
+font-size: 100%;
+font-weight: bold;
+}
+button.signup{
+font-family: 'Sarabun';
+font-size: 150%;
+ border-radius: 5px;
+background-color:#92140C;
+width: 200px;
+height: 50px;
+border: solid;
+border-width: 1px;
+border-color: #000000;
+text-align: center;
+color: #FFFFFF;
+}
+::placeholder { 
+  color: #353238;
+}
+img.one{
+	width: 700px;
+	height: 450px;
+}
+table.picture{
+	margin: 15px 0px 0px 50px;
+}
